@@ -22,3 +22,6 @@
 	path = repos/meta-tegra
 	url = https://github.com/OE4T/meta-tegra.git
 	branch = dunfell-l4t-r32.5.0
+[submodule "repos/meta-dtek"]
+	path = repos/meta-dtek
+	url = git@github.com:DreamForTek/meta-dtek.git
